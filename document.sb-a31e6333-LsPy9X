@@ -1,0 +1,79 @@
+
+        <!DOCTYPE HTML>
+    <HTML>
+    <HEAD>
+      <title> document
+      </title>
+      </HEAD>
+      <body>
+        <h1 >welcome to my profile</h1>
+
+        <a href="">
+            <button>
+                ABOUT
+            </button>
+         </a>
+        <a href="">
+            <button>
+                 SKILLS
+            </button>
+        </a>
+        <a href="">
+            <button> 
+                PROJECTS
+            </button>
+        </a>
+        <a href="">
+            <button>
+               CONTACT ME
+            </button>
+        </a>
+        
+
+        <h1> JANGAMREDDY SUDHARSHAN REDDY</h1>
+        <p> I am passionate web developer with a focus end technology</p>
+        <P> I am currently pursing my B.Tech in <em>SVCET</em> CHITTOR</P>
+        <P>I have learn web developer from<br>youtube </P> 
+        <P>you can <strong> click here</strong>checkout what i have learnt in HTML ,CSS,J</P> 
+
+        <h1> my skills</h1>
+        <ol> 
+         <li> python</li>
+         <li>html</li>
+         <li>css</li>
+         <li>java</li>
+    </ol>
+
+    <h1> contact me</h1>
+    <P>feel free to get in touch with me using the form below</P>
+    <form>
+        <label for="name">Name: </label>
+        <input type="text">
+        <br>
+
+        <label for="email">Email:</label>
+        <input type="email">
+        <br>
+
+        <b>choose your gender</b>
+        <input type="radio" id="male" value="male">
+        <label for="male"> male</label>
+        <input type="radio" id="female" value="female">
+        <label for="female">female</label>
+        <br>
+
+
+        <b>select your interest:</b>
+        <input type="checkbox" id="coding" value="coding">
+        <label for="coding">coding</label>
+        <input type="checkbox" id="reading" value="reading">
+        <label for="reading">reading</label>
+        <br>
+
+
+        <button type="submit"> submit</button>
+
+    </form>
+</body>
+    
+</HTML>
